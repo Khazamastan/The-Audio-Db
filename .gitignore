@@ -1,0 +1,16 @@
+.sass-cache/
+dist/
+node_modules/
+.DS_Store
+.idea
+n.tgz
+
+*.iml
+
+app2.iml
+.pan.swn
+.pan.swo
+.pan.swp
+pann
+.history/
+.vscode/
