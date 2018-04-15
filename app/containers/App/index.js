@@ -48,10 +48,10 @@ class App extends React.Component {
     return (
       <AppWrapper>
       <Helmet
-        titleTemplate="%s - SWAPI Search"
-        defaultTitle="SWAPI Search"
+        titleTemplate="%s - The Audio DB"
+        defaultTitle="The Audio DB"
       >
-      <meta name="description" content="A SWAPI Search application" />
+      <meta name="description" content="A The Audio DB application" />
       </Helmet>
       <Switch>
           <Route path="/search" component={SearchPage} />
